@@ -1,0 +1,13 @@
+#HTML
+
+-Hyper Text Markup Language
+-It is a Language of the web it is help to Creat website.
+-HTML is just creat a website Struchur.
+
+Ex:-
+    HTML = car body(only metal).
+    CSS  = car paint & decration.
+    Javascript = car engine + intrior logic.
+
+-For Creating HTML file then save this file like name.html use the .html
+ extenshan.

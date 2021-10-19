@@ -1,0 +1,19 @@
+#CREATING A WEBSITE
+
+-We Start Bulding a website by wrating a file named as index.html
+-index.html is a special filename which is presented when the website root
+ address ia typed.
+
+-A Basic HTML page start:-
+#HTML webpage starting TAGS
+
+<!DOCTYPE html> ----------------- this tag is specifies you use a html 5
+   <html> ----------------------------- root of an HTML page
+       <head> ---------------------------------contains page metadata
+           <titel>akshay's website</titel> -----------------  this titel tag is contains the titel this titel is show you in your browser shearch box.
+       </head>
+       <body>------------------the main body of the page(render by the browser)
+             <h1>WELCOM GUYS</h1>-------------Headline tag
+           <p>in this tag you write paragraph</p>-----------------paragraph
+       </body>
+   </html>

@@ -1,0 +1,15 @@
+#TAGS
+
+-head & body tags are children of HTML tag.
+-HTML tag is the parent of hed & body tag.
+-Most of the HTML elements have opning & closing tag with contend in Between
+ Opening & Closing tags.
+-Some HTML tags have no content. these are called Empty elements EX:-<br> tag
+-We can either use .html or .htm extension.
+-You can Use "Inspect Element" or "Vieur page source" option from chrome to
+ look into a websites HTML code.
+-Comments in HTML:-
+                commets in HTML are used to mark text which should not be parsed.
+           they can help document the soure code. EX:- <!--your Comment-->
+-Case Sensitivity:-
+                HTML is a case Insensitive language <H1> and <h1> tag are tha same.

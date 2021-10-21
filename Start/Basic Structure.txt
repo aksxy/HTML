@@ -1,0 +1,28 @@
+#STRUCTURE
+
+-First in start you need to told browser what kind of file is this for this
+ use <!DOCTYPE html> this tag tolde browser to this file is HTML file.
+-Second you use <html> tag in this tag you write your all html and also closed
+ this tag </html>
+-In third step you have another tag this tag is worit in <html> tag the tag is
+ <head> in head tag you give istracstion(metadata) and Forth tag is
+ <body> in <body> tag what is you write it visable for user.
+-In <head> tag we have another tag the <titel> tag in this tag what you 
+ write is not show in browser page it's show in browser sherch secssion.
+
+
+EX:-
+      <!DOCTYPE html>
+              <html>
+
+                <head>
+                     <titel>akshay's web</titel> 
+                      <!--metadata-->
+                </head>
+
+                <body> 
+                      <!--This is visible part for user-->
+                 </body>
+
+              </html>
+

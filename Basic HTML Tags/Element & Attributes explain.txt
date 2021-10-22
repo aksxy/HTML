@@ -1,0 +1,20 @@
+#ELEMENT AND ATTRIBUTES
+
+-We can add Elements Inside the body tag to define the page layout.
+
+#HTML Element
+-Everything from Starting tag the Ending tag.
+EX:-  
+       <body>-----Opening tag
+          --->Content<----
+      </body>------Closing tag
+
+#HTML Attributes
+-Used to add more information Corresponding to an HTML tag.
+EX:-
+     <a href="https://google.com"> Clike hear </a>
+
+----{href is a attribute an the (a) is a anchor tag.}
+
+-We can Either use single or doulle quotes in attributes.
+     

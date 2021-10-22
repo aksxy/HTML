@@ -17,3 +17,6 @@
            <p>in this tag you write paragraph</p>-----------------paragraph
        </body>
    </html>
+
+-Every tag are Opend is neccessry to cloesde.
+EX:- <h1> </h1>

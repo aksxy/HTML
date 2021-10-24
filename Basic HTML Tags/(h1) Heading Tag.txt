@@ -1,0 +1,11 @@
+#HEADING TAG
+
+-Heading tag is used to mark Headings in HTML from (h1) to (h6), we have
+ tags for the most important to the least least important heading.
+Ex:-     
+           <h1> Most Importent Heading <h1> 
+              <h2> Another Heading <h2>
+              <h3> Another Heading <h3>
+              <h4> Another Heading <h4>
+              <h5> Another Heading <h5>
+              <h6> Another Heading <h6>

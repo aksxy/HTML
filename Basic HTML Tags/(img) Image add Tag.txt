@@ -1,0 +1,10 @@
+#IMG TAG
+
+-img tag is used to add images in an HTML page.
+Ex:- 
+     <img src="path & url of image" alt="loding">
+
+------alt attribut for if your image is nod load then he show this what you 
+          write in alt attribut.
+------The image is in same folder then used (/)slash for giving path of image.
+       Ex:- <img scr="/myphoto.img" alt="whait">

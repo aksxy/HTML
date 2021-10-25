@@ -1,0 +1,7 @@
+#BIG & SMALL TAG
+
+-We can make the Text a bit larger and a bit smaller using <big> and <small>
+ tags respectively.
+
+Ex:-  <big> This is Big </big>
+     <small> This is small </small>

@@ -1,0 +1,10 @@
+#b=BOLD, i=Italic, u=Underline Tags
+
+-We can use Bold,Italic & Underline tags to Highlight the texts as follos
+
+Ex:- 
+        <b> This is Bold </b>
+
+        <i> This is Italic </i>
+
+        <u> This is Underline </u>

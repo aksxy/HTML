@@ -1,0 +1,9 @@
+#SUBSCRIPT(sub) & SUPSCRIPT(sup) TAG
+
+-We can add Subscript and Supscript in HTML as Follows
+ Ex:- 
+     i
+i) If You whant to write CO2 then use sub
+    <p> CO <sub> 2 </sub> </p>
+ii)If you whant to write a2+bx+c then use sup
+    <p> a <sup> 2 </sup> +bx+c </p>

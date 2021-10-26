@@ -1,0 +1,11 @@
+#BR
+
+-The <br> tag is used to create line breaks in an HTML Document.
+
+Ex:- 
+
+     Lorem Ipsum is simply dummy text of the printing and <br> typesetting
+ industry. Lorem Ipsum has been <br> the industry's standard dummy text e-
+ ver since <br> the 1500s, when an unknown printer took a galley of type<br> 
+ and of type and scrambled it to make a <br> type specimen book. It has s-
+ urvived not <br> only five centuries, but also the leap into electronic

@@ -1,0 +1,6 @@
+#HR TAG
+
+-<hr> Tag in HTML is used to create a Horizhontal Ruler ofthen used to Separate
+ to Content.(Drow thw line)
+
+EX:-   <hr>

@@ -1,0 +1,28 @@
+#INSERT AUDIO FILE
+
+-Inserting any audio file in web page use audio tag and controls attribute for 
+ controling audio file.
+-for given your audio file use source tag and src attribute and tell the browser
+ what type of your audio file, for telling use tpye attribute.
+-If users web browser cannot suport aur audio file type then we show user message
+ like your browser cannot suport file type, for this use <source> tag.
+
+EX:-  
+      <!DOCTYPE html>
+<html>
+    <head>
+        <title>Insert audio file</title>
+    </head>
+    <body>
+        <h3>For Browser cannot suport</h3>
+        <audio controls>
+            <source src="audiofile.mp3" type="audio/mp3">
+            your browser cannot saport this file!!
+        </audio>
+        <hr> <!--hr tahg for horizhontel line-->
+        <br>
+        <h3>Normal</h3>
+        <audio src="audiofile.mp3" type="audio/mp3" controls></audio>
+        <hr> <!--hr tahg for horizhontel line-->
+    </body>
+</html>

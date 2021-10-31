@@ -1,0 +1,6 @@
+#PARAGRAPH TAG
+
+-Paragraoh tag are used to add paragraph to an HTML page.
+
+EX:-  
+      <p>this is a paragraph tag you write your paragraph in this tag</p>

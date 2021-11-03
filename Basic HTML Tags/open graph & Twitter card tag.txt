@@ -1,0 +1,9 @@
+#OPEN GRAPH AND TWITTER CARD TAG
+
+-i) Open Graph is created by facebook.
+-ii) Twitter card is created by Twitter.
+-This card tag is a post format of this sites.
+-Go to google and search facebook open graph tag and copy ther code and pest on your
+ project and edite code.
+-Also same for Twitter go google and search Twitter card tag and copy ther code and 
+ pest on your project and edite it code on your requrment.

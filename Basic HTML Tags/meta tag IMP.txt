@@ -1,0 +1,17 @@
+#META TAG
+
+-meta tag is use to creat website responsibul, this tag adjust size of all page on
+ devies requrment.
+-Use meta tag in head tag he has same attribute name,content.
+
+EX:- 
+    <!DOCTYPE html>
+<html>
+    <head>
+        <title>meta tag</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+    </head>
+    <body>
+        
+    </body>
+</html>

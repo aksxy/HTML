@@ -1,0 +1,18 @@
+#RIGHT TO LEFT LANGUAGE WEBSITE
+
+-Same time we creat website for language it's write right to left like urdu or arbic
+ for this type of website.
+-For writen website right to left use dir="rtl", the rtl for right to right and ltr
+ for left to right. 
+-use this dir in html tag.
+
+Ex:-
+      <!DOCTYPE html>
+<html dir="rtl">
+<head>
+    <title>Right to Left</title>
+</head>
+<body>
+    <h1>right to Left</h1>
+</body>
+</html>

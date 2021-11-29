@@ -1,0 +1,50 @@
+#INPUT TYPES FOR FORM
+
+-When you whant to give any type of input tag you must use <input type=""> and ther 
+ input name.
+-This is some input types
+i) text
+ii) submit
+iii) color
+iv) date
+v) email
+vi) number
+vii) password
+viii) reset  ----- for reset form fill info.
+ix) time
+x) url -----for input url.
+xi) range ----For set the range for this you have to use min and max attribut.
+
+EX:-
+     <!DOCTYPE html>
+<html>
+    <head>
+        <title>input types for form</title>
+    </head>
+    <body>
+        <form> 
+            text <input type="text">
+             <br>
+            butten <input type="butten">
+             <br>
+            color <input type="color">
+             <br>
+            date <input type="date">
+             <br>
+            email <input type="email">
+             <br>
+            number <input type="number">
+             <br>
+            password <input type="password">
+             <br>
+             reset<input type="reser">
+             <br>
+            time <input type="time">
+             <br>
+            url <input type="url">
+             <br>
+           range  <input type="range" min="100" max="1000">
+        </form>
+    </body>
+</html>
+

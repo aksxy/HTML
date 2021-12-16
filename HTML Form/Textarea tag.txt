@@ -1,0 +1,16 @@
+#TEXTAREA 
+
+
+-textarea ia use to creating big size of box for user type any thing.
+-For select textarea size use rows and cols attribut.
+
+EX:- 
+      <!DOCTYPE html>
+       <html>
+         <head>
+           <title>Textarea tag</title>
+          </head>
+          <body>
+             <textarea cols="30" rows="10"></textarea>
+           </body>
+      </html>

@@ -1,0 +1,29 @@
+#FAVICON
+
+-Favicon is that you see in any search bar there website name and ther logo this
+ logo is favicon.
+-For creating favicon you need image or logo then this logo attach to html file, 
+ for this use <link> tag in <head> tag, in link tag you have some attribute like 
+ rel,href,type in rel write icon, in href give path, in type tell image type.
+
+-This is done But now days websites are open in defrant types of devics and windows
+ that's way you need to set your favicon all size of, for this go google and search 
+ favicon genreter and go any website and genrate your favicon all types and download
+ this pack and copy code that is website is give you and pest in your code, but
+ chenge the path of code to in which folder you download ther icon pack.
+
+
+EX:-
+     <!DOCTYPE html>
+<html>
+
+<head>
+    <title>Favicon</title>
+    <link rel="icon" href="Lays-Logo.png" type="image/png"> 
+</head>
+
+<body>
+
+</body>
+
+</html>
